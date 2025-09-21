@@ -80,7 +80,8 @@
       "uniqueAmount": 220,
       "suffix": 120,
       "createdAt": "2025-09-21T22:50:37.056Z",
-      "status": "PENDING"
+      "status": "CANCELED",
+      "closedAt": "2025-09-21T22:50:40.495Z"
     }
   ]
 }

@@ -7,7 +7,7 @@
       "createdAt": "2025-09-21T21:05:12.633Z"
     },
     "5879214876": {
-      "balance": 70180,
+      "balance": 60180,
       "username": "Candravpnz",
       "name": "👑𝙺𝙸𝙽𝙶𝚂𝚃𝙾𝚁𝙴",
       "createdAt": "2025-09-21T21:05:53.258Z"
@@ -29,8 +29,8 @@
       "ip": "104.22.24.131",
       "ownerTelegramId": 5879214876,
       "date": "2025-09-21T22:01:02.823Z",
-      "durationDays": 30,
-      "expiryISO": "2025-10-21T22:01:02.823Z"
+      "durationDays": 60,
+      "expiryISO": "2025-11-20T22:01:02.823Z"
     }
   ],
   "pendingTopups": [

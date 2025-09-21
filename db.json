@@ -7,7 +7,7 @@
       "createdAt": "2025-09-21T21:05:12.633Z"
     },
     "5879214876": {
-      "balance": 0,
+      "balance": 180,
       "username": "Candravpnz",
       "name": "👑𝙺𝙸𝙽𝙶𝚂𝚃𝙾𝚁𝙴",
       "createdAt": "2025-09-21T21:05:53.258Z"
@@ -22,7 +22,8 @@
       "uniqueAmount": 180,
       "suffix": 80,
       "createdAt": "2025-09-21T21:06:23.411Z",
-      "status": "PENDING"
+      "status": "PAID",
+      "paidAt": "2025-09-21T21:06:31.553Z"
     }
   ]
 }

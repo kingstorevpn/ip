@@ -7,13 +7,23 @@
       "createdAt": "2025-09-21T21:05:12.633Z"
     },
     "5879214876": {
-      "balance": 100180,
+      "balance": 90180,
       "username": "Candravpnz",
       "name": "👑𝙺𝙸𝙽𝙶𝚂𝚃𝙾𝚁𝙴",
       "createdAt": "2025-09-21T21:05:53.258Z"
     }
   },
-  "records": [],
+  "records": [
+    {
+      "id": "rec_mfu6zru0_2bpl",
+      "username": "KINGSTSBSV",
+      "ip": "104.26.7.171",
+      "ownerTelegramId": 5879214876,
+      "date": "2025-09-21T21:11:17.160Z",
+      "durationDays": 30,
+      "expiryISO": "2025-10-21T21:11:17.160Z"
+    }
+  ],
   "pendingTopups": [
     {
       "reference": "TOPUP-5879214876-1758488783348",

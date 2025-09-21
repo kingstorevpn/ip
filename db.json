@@ -14,5 +14,15 @@
     }
   },
   "records": [],
-  "pendingTopups": []
+  "pendingTopups": [
+    {
+      "reference": "TOPUP-5879214876-1758488783348",
+      "uid": 5879214876,
+      "baseAmount": 100,
+      "uniqueAmount": 180,
+      "suffix": 80,
+      "createdAt": "2025-09-21T21:06:23.411Z",
+      "status": "PENDING"
+    }
+  ]
 }

@@ -173,7 +173,8 @@
       "uniqueAmount": 255,
       "suffix": 155,
       "createdAt": "2025-09-25T00:11:29.793Z",
-      "status": "PENDING"
+      "status": "CANCELED",
+      "canceledAt": "2025-09-25T00:11:59.414Z"
     }
   ]
 }

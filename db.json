@@ -43,7 +43,7 @@
       "createdAt": "2025-09-21T21:05:12.633Z"
     },
     "5879214876": {
-      "balance": 99990892,
+      "balance": 99980892,
       "username": "Candravpnz",
       "name": "👑𝙺𝙸𝙽𝙶𝚂𝚃𝙾𝚁𝙴",
       "createdAt": "2025-09-21T21:05:53.258Z"
@@ -208,6 +208,15 @@
       "date": "2025-10-02T08:16:31.836Z",
       "durationDays": 30,
       "expiryISO": "2025-11-01T08:16:31.836Z"
+    },
+    {
+      "id": "rec_mgcpgjvp_bnh4",
+      "username": "AMAZONSG",
+      "ip": "18.143.152.89",
+      "ownerTelegramId": 5879214876,
+      "date": "2025-10-04T20:08:04.261Z",
+      "durationDays": 30,
+      "expiryISO": "2025-11-03T20:08:04.261Z"
     }
   ],
   "pendingTopups": [

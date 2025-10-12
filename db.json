@@ -386,7 +386,8 @@
       "uniqueAmount": 10136,
       "suffix": 136,
       "createdAt": "2025-10-12T12:13:20.236Z",
-      "status": "PENDING"
+      "status": "CANCELED",
+      "closedAt": "2025-10-12T13:06:53.389Z"
     }
   ]
 }

@@ -43,7 +43,7 @@
       "createdAt": "2025-09-21T21:05:12.633Z"
     },
     "5879214876": {
-      "balance": 99940892,
+      "balance": 99930892,
       "username": "Candravpnz",
       "name": "𝙺𝙸𝙽𝙶𝚂𝚃𝙾𝚁𝙴",
       "createdAt": "2025-09-21T21:05:53.258Z"
@@ -283,6 +283,15 @@
       "date": "2025-10-21T06:53:20.129Z",
       "durationDays": 30,
       "expiryISO": "2025-11-20T06:53:20.129Z"
+    },
+    {
+      "id": "rec_mh0l230e_e90z",
+      "username": "TENCENTCLOUD",
+      "ip": "43.156.26.234",
+      "ownerTelegramId": 5879214876,
+      "date": "2025-10-21T13:11:18.974Z",
+      "durationDays": 30,
+      "expiryISO": "2025-11-20T13:11:18.974Z"
     }
   ],
   "pendingTopups": [

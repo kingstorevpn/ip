@@ -252,6 +252,7 @@
       "durationDays": 30,
       "expiryISO": "2025-11-01T08:16:31.836Z",
       "notified": {
+        "1": true,
         "3": true
       }
     },
@@ -262,7 +263,10 @@
       "ownerTelegramId": 5879214876,
       "date": "2025-10-04T20:08:04.261Z",
       "durationDays": 30,
-      "expiryISO": "2025-11-03T20:08:04.261Z"
+      "expiryISO": "2025-11-03T20:08:04.261Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mgl09cmd_3mve",

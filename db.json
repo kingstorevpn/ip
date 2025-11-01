@@ -231,19 +231,6 @@
       }
     },
     {
-      "id": "rec_mg955sv0_i0n8",
-      "username": "KOMINFO",
-      "ip": "103.148.195.161",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-10-02T08:16:31.836Z",
-      "durationDays": 30,
-      "expiryISO": "2025-11-01T08:16:31.836Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mgcpgjvp_bnh4",
       "username": "AMAZONSG",
       "ip": "54.254.242.49",

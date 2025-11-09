@@ -244,19 +244,6 @@
       }
     },
     {
-      "id": "rec_mgl09cmd_3mve",
-      "username": "SGKIMMY",
-      "ip": "150.109.18.46",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-10-10T15:32:33.445Z",
-      "durationDays": 30,
-      "expiryISO": "2025-11-09T15:32:33.445Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mgnz6gg0_c30p",
       "username": "KINGSTORE",
       "ip": "103.151.141.106",

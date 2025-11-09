@@ -272,7 +272,10 @@
       "ownerTelegramId": 7813953089,
       "date": "2025-10-13T11:57:21.747Z",
       "durationDays": 30,
-      "expiryISO": "2025-11-12T11:57:21.747Z"
+      "expiryISO": "2025-11-12T11:57:21.747Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mh07jzwh_hyhg",

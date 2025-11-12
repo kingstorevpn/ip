@@ -253,19 +253,6 @@
       "expiryISO": "2025-12-11T17:25:37.344Z"
     },
     {
-      "id": "rec_mgp2w5w3_jwb8",
-      "username": "Test",
-      "ip": "91.192.81.131",
-      "ownerTelegramId": 7813953089,
-      "date": "2025-10-13T11:57:21.747Z",
-      "durationDays": 30,
-      "expiryISO": "2025-11-12T11:57:21.747Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mh07jzwh_hyhg",
       "username": "Putra",
       "ip": "91.192.81.91",

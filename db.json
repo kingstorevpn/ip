@@ -207,7 +207,10 @@
       "ownerTelegramId": 5879214876,
       "date": "2025-09-21T21:11:17.160Z",
       "durationDays": 60,
-      "expiryISO": "2025-11-20T21:11:17.160Z"
+      "expiryISO": "2025-11-20T21:11:17.160Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mfu8rrl3_8ah6",
@@ -216,7 +219,10 @@
       "ownerTelegramId": 5879214876,
       "date": "2025-09-21T22:01:02.823Z",
       "durationDays": 60,
-      "expiryISO": "2025-11-20T22:01:02.823Z"
+      "expiryISO": "2025-11-20T22:01:02.823Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mfu9to8x_c0hy",
@@ -277,7 +283,10 @@
       "ownerTelegramId": 5879214876,
       "date": "2025-10-21T06:53:20.129Z",
       "durationDays": 30,
-      "expiryISO": "2025-11-20T06:53:20.129Z"
+      "expiryISO": "2025-11-20T06:53:20.129Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mh0l230e_e90z",
@@ -286,7 +295,10 @@
       "ownerTelegramId": 5879214876,
       "date": "2025-10-21T13:11:18.974Z",
       "durationDays": 30,
-      "expiryISO": "2025-11-20T13:11:18.974Z"
+      "expiryISO": "2025-11-20T13:11:18.974Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mh3bofbv_7qzs",

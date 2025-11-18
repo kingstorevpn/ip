@@ -61,7 +61,7 @@
       "createdAt": "2025-09-21T21:05:12.633Z"
     },
     "5879214876": {
-      "balance": 99810892,
+      "balance": 99800892,
       "username": "Candravpnz",
       "name": "𝙺𝙸𝙽𝙶𝚂𝚃𝙾𝚁𝙴",
       "createdAt": "2025-09-21T21:05:53.258Z"
@@ -374,6 +374,15 @@
       "date": "2025-11-10T20:35:12.610Z",
       "durationDays": 60,
       "expiryISO": "2026-01-09T20:35:12.610Z"
+    },
+    {
+      "id": "rec_mi521wut_51m1",
+      "username": "FREEBYKINGSTORE",
+      "ip": "150.109.18.46",
+      "ownerTelegramId": 5879214876,
+      "date": "2025-11-18T20:57:51.509Z",
+      "durationDays": 30,
+      "expiryISO": "2025-12-18T20:57:51.509Z"
     }
   ],
   "pendingTopups": [

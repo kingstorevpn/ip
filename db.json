@@ -227,6 +227,7 @@
       "durationDays": 60,
       "expiryISO": "2025-11-20T21:11:17.160Z",
       "notified": {
+        "1": true,
         "3": true
       }
     },
@@ -239,6 +240,7 @@
       "durationDays": 60,
       "expiryISO": "2025-11-20T22:01:02.823Z",
       "notified": {
+        "1": true,
         "3": true
       }
     },
@@ -303,6 +305,7 @@
       "durationDays": 30,
       "expiryISO": "2025-11-20T06:53:20.129Z",
       "notified": {
+        "1": true,
         "3": true
       }
     },
@@ -325,7 +328,10 @@
       "ownerTelegramId": 5879214876,
       "date": "2025-10-23T11:12:03.739Z",
       "durationDays": 30,
-      "expiryISO": "2025-11-22T11:12:03.739Z"
+      "expiryISO": "2025-11-22T11:12:03.739Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mhaj3ak2_6iz1",

@@ -317,6 +317,7 @@
       "durationDays": 30,
       "expiryISO": "2025-11-22T11:12:03.739Z",
       "notified": {
+        "1": true,
         "3": true
       }
     },

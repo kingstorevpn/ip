@@ -219,32 +219,6 @@
   },
   "records": [
     {
-      "id": "rec_mfu6zru0_2bpl",
-      "username": "KINGSTSBSV",
-      "ip": "104.26.8.171",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-09-21T21:11:17.160Z",
-      "durationDays": 60,
-      "expiryISO": "2025-11-20T21:11:17.160Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
-      "id": "rec_mfu8rrl3_8ah6",
-      "username": "memeksh",
-      "ip": "104.22.24.131",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-09-21T22:01:02.823Z",
-      "durationDays": 60,
-      "expiryISO": "2025-11-20T22:01:02.823Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mfu9to8x_c0hy",
       "username": "Mosjsjb",
       "ip": "104.26.7.172",

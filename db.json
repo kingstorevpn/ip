@@ -283,19 +283,6 @@
       }
     },
     {
-      "id": "rec_mh3bofbv_7qzs",
-      "username": "Kimmy",
-      "ip": "43.134.48.53",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-10-23T11:12:03.739Z",
-      "durationDays": 30,
-      "expiryISO": "2025-11-22T11:12:03.739Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mhaj3ak2_6iz1",
       "username": "Irvan",
       "ip": "167.99.72.229",

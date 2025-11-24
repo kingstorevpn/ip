@@ -289,7 +289,10 @@
       "ownerTelegramId": 5879214876,
       "date": "2025-10-28T12:13:57.938Z",
       "durationDays": 30,
-      "expiryISO": "2025-11-27T12:13:57.938Z"
+      "expiryISO": "2025-11-27T12:13:57.938Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mhaj44ua_g3qe",
@@ -298,7 +301,10 @@
       "ownerTelegramId": 5879214876,
       "date": "2025-10-28T12:14:37.186Z",
       "durationDays": 30,
-      "expiryISO": "2025-11-27T12:14:37.186Z"
+      "expiryISO": "2025-11-27T12:14:37.186Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mhaqznjf_8m0c",

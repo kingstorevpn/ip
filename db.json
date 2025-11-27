@@ -289,32 +289,6 @@
       }
     },
     {
-      "id": "rec_mhaj3ak2_6iz1",
-      "username": "Irvan",
-      "ip": "167.99.72.229",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-10-28T12:13:57.938Z",
-      "durationDays": 30,
-      "expiryISO": "2025-11-27T12:13:57.938Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
-      "id": "rec_mhaj44ua_g3qe",
-      "username": "Nsnsjjs",
-      "ip": "103.161.185.43",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-10-28T12:14:37.186Z",
-      "durationDays": 30,
-      "expiryISO": "2025-11-27T12:14:37.186Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mhaqznjf_8m0c",
       "username": "Kingstore",
       "ip": "43.134.28.97",

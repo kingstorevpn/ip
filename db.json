@@ -249,19 +249,6 @@
       "expiryISO": "2025-12-22T21:33:05.839Z"
     },
     {
-      "id": "rec_mg8huspu_jcmh",
-      "username": "IDVVIP",
-      "ip": "16.79.108.104",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-10-01T21:24:07.266Z",
-      "durationDays": 60,
-      "expiryISO": "2025-11-30T21:24:07.266Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mgcpgjvp_bnh4",
       "username": "AMAZONSG",
       "ip": "54.254.242.49",
@@ -303,19 +290,6 @@
       "date": "2025-10-28T15:55:05.067Z",
       "durationDays": 90,
       "expiryISO": "2026-01-26T15:55:05.067Z"
-    },
-    {
-      "id": "rec_mhg45pzh_4r1r",
-      "username": "Bdbdbbd",
-      "ip": "202.155.95.171",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-11-01T10:02:34.061Z",
-      "durationDays": 30,
-      "expiryISO": "2025-12-01T10:02:34.061Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
     },
     {
       "id": "rec_mhndtnqs_l8b7",

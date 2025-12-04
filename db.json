@@ -249,19 +249,6 @@
       "expiryISO": "2025-12-22T21:33:05.839Z"
     },
     {
-      "id": "rec_mgcpgjvp_bnh4",
-      "username": "AMAZONSG",
-      "ip": "54.254.242.49",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-10-04T20:08:04.261Z",
-      "durationDays": 60,
-      "expiryISO": "2025-12-03T20:08:04.261Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mgnz6gg0_c30p",
       "username": "KINGSTORE",
       "ip": "103.151.141.106",

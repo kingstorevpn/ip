@@ -73,7 +73,7 @@
       "createdAt": "2025-09-21T21:05:53.258Z"
     },
     "7813953089": {
-      "balance": 950249,
+      "balance": 875249,
       "username": "Kingstoresvpn",
       "name": "👑𝙺𝙸𝙽𝙶𝚂𝚃𝙾𝚁𝙴𝚅𝙿𝙽𝚉🤖",
       "createdAt": "2025-09-21T23:44:59.980Z"
@@ -335,6 +335,15 @@
       "date": "2025-12-05T08:43:49.100Z",
       "durationDays": 30,
       "expiryISO": "2026-01-04T08:43:49.100Z"
+    },
+    {
+      "id": "rec_mitj0fhx_4nj",
+      "username": "Monyettttt",
+      "ip": "43.134.225.3",
+      "ownerTelegramId": 7813953089,
+      "date": "2025-12-05T23:59:04.053Z",
+      "durationDays": 365,
+      "expiryISO": "2026-12-05T23:59:04.053Z"
     }
   ],
   "pendingTopups": [

@@ -279,19 +279,6 @@
       "expiryISO": "2026-01-26T15:55:05.067Z"
     },
     {
-      "id": "rec_mhndtnqs_l8b7",
-      "username": "PENGLARIS",
-      "ip": "43.156.92.96",
-      "ownerTelegramId": 7813953089,
-      "date": "2025-11-06T12:07:30.676Z",
-      "durationDays": 30,
-      "expiryISO": "2025-12-06T12:07:30.676Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mhtlpyzl_hb78",
       "username": "AMAZON",
       "ip": "47.128.223.206",

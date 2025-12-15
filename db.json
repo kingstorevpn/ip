@@ -300,7 +300,10 @@
       "ownerTelegramId": 5879214876,
       "date": "2025-11-18T20:57:51.509Z",
       "durationDays": 30,
-      "expiryISO": "2025-12-18T20:57:51.509Z"
+      "expiryISO": "2025-12-18T20:57:51.509Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mi5c8zeo_215c",

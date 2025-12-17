@@ -302,6 +302,7 @@
       "durationDays": 30,
       "expiryISO": "2025-12-18T20:57:51.509Z",
       "notified": {
+        "1": true,
         "3": true
       }
     },
@@ -321,7 +322,10 @@
       "ownerTelegramId": 5879214876,
       "date": "2025-11-20T14:46:23.982Z",
       "durationDays": 30,
-      "expiryISO": "2025-12-20T14:46:23.982Z"
+      "expiryISO": "2025-12-20T14:46:23.982Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mismbeuk_h2rw",

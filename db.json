@@ -298,19 +298,6 @@
       "expiryISO": "2026-01-09T20:35:12.610Z"
     },
     {
-      "id": "rec_mi521wut_51m1",
-      "username": "FREEBYKINGSTORE",
-      "ip": "150.109.18.46",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-11-18T20:57:51.509Z",
-      "durationDays": 30,
-      "expiryISO": "2025-12-18T20:57:51.509Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mi5c8zeo_215c",
       "username": "PROMO1",
       "ip": "43.134.75.81",

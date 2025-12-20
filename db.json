@@ -267,19 +267,6 @@
       "expiryISO": "2026-01-10T17:25:37.344Z"
     },
     {
-      "id": "rec_mh0l230e_e90z",
-      "username": "TENCENTCLOUD",
-      "ip": "43.156.26.234",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-10-21T13:11:18.974Z",
-      "durationDays": 60,
-      "expiryISO": "2025-12-20T13:11:18.974Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mhaqznjf_8m0c",
       "username": "Kingstore",
       "ip": "43.134.28.97",
@@ -305,19 +292,6 @@
       "date": "2025-11-19T01:43:17.568Z",
       "durationDays": 90,
       "expiryISO": "2026-02-17T01:43:17.568Z"
-    },
-    {
-      "id": "rec_mi7jnx0u_elo3",
-      "username": "SGTENC",
-      "ip": "43.134.10.129",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-11-20T14:46:23.982Z",
-      "durationDays": 30,
-      "expiryISO": "2025-12-20T14:46:23.982Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
     },
     {
       "id": "rec_mismbeuk_h2rw",

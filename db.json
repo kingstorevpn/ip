@@ -270,7 +270,10 @@
       "ownerTelegramId": 5879214876,
       "date": "2025-10-12T17:25:37.344Z",
       "durationDays": 90,
-      "expiryISO": "2026-01-10T17:25:37.344Z"
+      "expiryISO": "2026-01-10T17:25:37.344Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mhaqznjf_8m0c",
@@ -318,7 +321,10 @@
       "ownerTelegramId": 7813953089,
       "date": "2025-12-11T07:04:33.050Z",
       "durationDays": 30,
-      "expiryISO": "2026-01-10T07:04:33.050Z"
+      "expiryISO": "2026-01-10T07:04:33.050Z",
+      "notified": {
+        "3": true
+      }
     },
     {
       "id": "rec_mj9agcfa_7y41",

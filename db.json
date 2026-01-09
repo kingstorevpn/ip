@@ -272,6 +272,7 @@
       "durationDays": 90,
       "expiryISO": "2026-01-10T17:25:37.344Z",
       "notified": {
+        "1": true,
         "3": true
       }
     },
@@ -324,6 +325,7 @@
       "durationDays": 30,
       "expiryISO": "2026-01-10T07:04:33.050Z",
       "notified": {
+        "1": true,
         "3": true
       }
     },

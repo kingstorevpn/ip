@@ -270,19 +270,6 @@
       "expiryISO": "2026-01-19T22:30:31.425Z"
     },
     {
-      "id": "rec_mgnz6gg0_c30p",
-      "username": "KINGSTORE",
-      "ip": "103.151.141.106",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-10-12T17:25:37.344Z",
-      "durationDays": 90,
-      "expiryISO": "2026-01-10T17:25:37.344Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mhaqznjf_8m0c",
       "username": "Kingstore",
       "ip": "43.134.28.97",

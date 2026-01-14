@@ -305,6 +305,7 @@
       "durationDays": 30,
       "expiryISO": "2026-01-16T00:43:48.838Z",
       "notified": {
+        "1": true,
         "3": true
       }
     },

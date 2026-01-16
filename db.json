@@ -300,19 +300,6 @@
       "expiryISO": "2026-12-05T23:59:04.053Z"
     },
     {
-      "id": "rec_mj9agcfa_7y41",
-      "username": "Tiandi",
-      "ip": "129.226.208.243",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-12-17T00:43:48.838Z",
-      "durationDays": 30,
-      "expiryISO": "2026-01-16T00:43:48.838Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mj9gk938_keb8",
       "username": "Bsbzh",
       "ip": "119.28.102.228",

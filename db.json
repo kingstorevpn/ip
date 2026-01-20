@@ -261,19 +261,6 @@
   },
   "records": [
     {
-      "id": "rec_mfu9to8x_c0hy",
-      "username": "Mosjsjb",
-      "ip": "104.26.7.172",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-09-21T22:30:31.425Z",
-      "durationDays": 120,
-      "expiryISO": "2026-01-19T22:30:31.425Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mhaqznjf_8m0c",
       "username": "Kingstore",
       "ip": "43.134.28.97",

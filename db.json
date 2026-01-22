@@ -297,19 +297,6 @@
       "expiryISO": "2026-03-17T03:34:48.836Z"
     },
     {
-      "id": "rec_mjhh5ft0_1ava",
-      "username": "Backupid",
-      "ip": "43.134.225.206",
-      "ownerTelegramId": 5879214876,
-      "date": "2025-12-22T18:13:26.724Z",
-      "durationDays": 30,
-      "expiryISO": "2026-01-21T18:13:26.725Z",
-      "notified": {
-        "1": true,
-        "3": true
-      }
-    },
-    {
       "id": "rec_mjk82xzi_i33k",
       "username": "SGBACKUP",
       "ip": "43.163.95.33",
